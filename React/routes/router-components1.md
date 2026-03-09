@@ -1,7 +1,3 @@
-Here is your **cleaned, corrected, and properly formatted README version** — structured professionally for notes or GitHub documentation.
-
----
-
 # React Router – `Link`, `Outlet`, and `useNavigate`
 
 This document explains how `Link`, `Outlet`, and `useNavigate` work in real-world React Router projects.
